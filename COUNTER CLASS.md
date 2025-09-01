@@ -49,7 +49,7 @@ print("3")
 ```
 
 ### OUTPUT
-![Uploading image.png…]()
+<img width="348" height="156" alt="image" src="https://github.com/user-attachments/assets/9d283403-e5e8-4a75-a1d6-5923b8d2e8ed" />
 
 ### RESULT
 Thus the python program to create a Counter class that can increment the value of a counter has been implemented successfully.
